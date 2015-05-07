@@ -1,0 +1,46 @@
+c:\users\0384\documents\visual studio 2012\Projects\C302_Produce\C302_Produce\bin\Debug\C302_Produce.exe.config
+c:\users\0384\documents\visual studio 2012\Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.csprojResolveAssemblyReference.cache
+c:\users\0384\documents\visual studio 2012\Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.Form1.resources
+c:\users\0384\documents\visual studio 2012\Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.Properties.Resources.resources
+c:\users\0384\documents\visual studio 2012\Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.csproj.GenerateResource.Cache
+c:\users\0384\documents\visual studio 2012\Projects\C302_Produce\C302_Produce\bin\Debug\C302_Produce.exe
+c:\users\0384\documents\visual studio 2012\Projects\C302_Produce\C302_Produce\bin\Debug\C302_Produce.pdb
+c:\users\0384\documents\visual studio 2012\Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.exe
+c:\users\0384\documents\visual studio 2012\Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.pdb
+D:\c backup\Projects\C302_Produce\C302_Produce\bin\Debug\C302_Produce.exe.config
+D:\c backup\Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.exe
+D:\c backup\Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.pdb
+D:\c backup\Projects\C302_Produce\C302_Produce\bin\Debug\C302_Produce.exe
+D:\c backup\Projects\C302_Produce\C302_Produce\bin\Debug\C302_Produce.pdb
+D:\c backup\Projects\C302_Produce\C302_Produce\obj\Debug\ResolveAssemblyReference.cache
+D:\c backup\Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.Form1.resources
+D:\c backup\Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.Properties.Resources.resources
+D:\c backup\Projects\C302_Produce\C302_Produce\obj\Debug\GenerateResource.read.1.tlog
+D:\c backup\Projects\C302_Produce\C302_Produce\obj\Debug\GenerateResource.write.1.tlog
+D:\c backup\c# Projects\C302_Produce\C302_Produce\bin\Debug\C302_Produce.exe.config
+D:\c backup\c# Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.exe
+D:\c backup\c# Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.pdb
+D:\c backup\c# Projects\C302_Produce\C302_Produce\bin\Debug\C302_Produce.exe
+D:\c backup\c# Projects\C302_Produce\C302_Produce\bin\Debug\C302_Produce.pdb
+D:\c backup\c# Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.csprojResolveAssemblyReference.cache
+D:\c backup\c# Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.Form1.resources
+D:\c backup\c# Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.Properties.Resources.resources
+D:\c backup\c# Projects\C302_Produce\C302_Produce\obj\Debug\C302_Produce.csproj.GenerateResource.Cache
+D:\work\交接\中華電信\產測工具\C302_Produce\C302_Produce\bin\Debug\C302_Produce.exe.config
+D:\work\交接\中華電信\產測工具\C302_Produce\C302_Produce\bin\Debug\C302_Produce.exe
+D:\work\交接\中華電信\產測工具\C302_Produce\C302_Produce\bin\Debug\C302_Produce.pdb
+D:\work\交接\中華電信\產測工具\C302_Produce\C302_Produce\obj\Debug\C302_Produce.csprojResolveAssemblyReference.cache
+D:\work\交接\中華電信\產測工具\C302_Produce\C302_Produce\obj\Debug\C302_Produce.Form1.resources
+D:\work\交接\中華電信\產測工具\C302_Produce\C302_Produce\obj\Debug\C302_Produce.Properties.Resources.resources
+D:\work\交接\中華電信\產測工具\C302_Produce\C302_Produce\obj\Debug\C302_Produce.csproj.GenerateResource.Cache
+D:\work\交接\中華電信\產測工具\C302_Produce\C302_Produce\obj\Debug\C302_Produce.exe
+D:\work\交接\中華電信\產測工具\C302_Produce\C302_Produce\obj\Debug\C302_Produce.pdb
+D:\work\Ryan\CHT\Produce_tools\C302_Produce\C302_Produce\bin\Debug\C303_Produce.exe.config
+D:\work\Ryan\CHT\Produce_tools\C302_Produce\C302_Produce\bin\Debug\C303_Produce.exe
+D:\work\Ryan\CHT\Produce_tools\C302_Produce\C302_Produce\bin\Debug\C303_Produce.pdb
+D:\work\Ryan\CHT\Produce_tools\C302_Produce\C302_Produce\obj\Debug\C302_Produce.csprojResolveAssemblyReference.cache
+D:\work\Ryan\CHT\Produce_tools\C302_Produce\C302_Produce\obj\Debug\C303_Produce.Form1.resources
+D:\work\Ryan\CHT\Produce_tools\C302_Produce\C302_Produce\obj\Debug\C303_Produce.Properties.Resources.resources
+D:\work\Ryan\CHT\Produce_tools\C302_Produce\C302_Produce\obj\Debug\C302_Produce.csproj.GenerateResource.Cache
+D:\work\Ryan\CHT\Produce_tools\C302_Produce\C302_Produce\obj\Debug\C303_Produce.exe
+D:\work\Ryan\CHT\Produce_tools\C302_Produce\C302_Produce\obj\Debug\C303_Produce.pdb
