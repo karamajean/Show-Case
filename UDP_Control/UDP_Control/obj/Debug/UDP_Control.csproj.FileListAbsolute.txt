@@ -1,0 +1,8 @@
+C:\work\Workshop\UDP_Control\UDP_Control\bin\Debug\UDP_Control.exe.config
+C:\work\Workshop\UDP_Control\UDP_Control\bin\Debug\UDP_Control.exe
+C:\work\Workshop\UDP_Control\UDP_Control\bin\Debug\UDP_Control.pdb
+C:\work\Workshop\UDP_Control\UDP_Control\obj\Debug\UDP_Control.Pantek_Demo.resources
+C:\work\Workshop\UDP_Control\UDP_Control\obj\Debug\UDP_Control.Properties.Resources.resources
+C:\work\Workshop\UDP_Control\UDP_Control\obj\Debug\UDP_Control.csproj.GenerateResource.Cache
+C:\work\Workshop\UDP_Control\UDP_Control\obj\Debug\UDP_Control.exe
+C:\work\Workshop\UDP_Control\UDP_Control\obj\Debug\UDP_Control.pdb
